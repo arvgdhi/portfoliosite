@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aarav Gandhi [AEROSPACE/AI]</title>
+    <!-- Google Fonts: Space Mono -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css?v=10">
+</head>
+<body>
+    <!-- Animated Stars Background -->
+    <div id="stars-container"></div>
+    <div id="stars-container-2"></div>
+
+    <!-- Minimalist camera-target cursor -->
+    <div id="custom-cursor"></div>
+
+    <nav>
+        <div class="logo">AARAV:G</div>
+        <ul class="nav-links">
+            <li><a href="#home">[01] INIT</a></li>
+            <li><a href="#about">[02] CORE</a></li>
+            <li><a href="#projects">[03] DEPLOY</a></li>
+            <li><a href="#research">[04] RSRCH</a></li>
+            <li><a href="#contact">[05] PING</a></li>
+        </ul>
+    </nav>
+
+    <header class="hero section" id="home">
+        <img src="realistic_sun_1774783297927.png" id="solar-flare" alt="Realistic Blazing Sun">
+        <div class="hero-content">
+            <h2 class="sub-heading">> SYS.LOG("Connection Established")</h2>
+            <h1 class="main-heading">AARAV GANDHI</h1>
+            <p class="tagline">Aspiring aerospace and AI engineer focused on real-world systems.</p>
+            <p class="intro-text">I'm a high school senior with a robust foundation in physics, mathematics, and engineering. I actively build projects bridging space science, artificial intelligence, and hardware systems—ranging from telescope construction to satellite design and deep interplanetary research.</p>
+            <a href="#about" class="btn">INITIALIZE SEQUENCE</a>
+        </div>
+    </header>
+
+    <section id="about" class="section">
+        <div class="container auto-hide">
+            <h2 class="section-title">_[02] ROOT_DIRECTORY</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <h3>> SYSTEM PARAMETERS</h3>
+                    <p>Currently in Grade 12, my focus is relentlessly set on advanced space technologies where <strong>AI architectures intersect with aerospace systems</strong>.</p>
+                    <p>Over recent years, I've prioritized building over just studying: configuring a conceptual satellite, constructing high-end optical telescopes, and researching Helium-3 paradigms alongside interplanetary habitation protocols. I've actively explored PCB design, 3D systems modeling, and agentic AI integration.</p>
+                    <p>I thrive on deconstructing complex, interdisciplinary problems—mastering theoretical fundamentals and applying them directly to real-world engineering constraints rather than isolated academic exercises.</p>
+                </div>
+                
+                <div class="skills-container">
+                    <h3>> TECHNICAL_SPECS</h3>
+                    <div class="skills-grid">
+                        <span class="skill-tag">PYTHON / AI-AGENTS</span>
+                        <span class="skill-tag">SATELLITE SYSTEMS</span>
+                        <span class="skill-tag">PROPULSION BASICS</span>
+                        <span class="skill-tag">PCB DESIGN / 3D PRINTING</span>
+                        <span class="skill-tag">MATHEMATICS [JEE]</span>
+                        <span class="skill-tag">PHYSICS [EM & MECHANICS]</span>
+                        <span class="skill-tag">CHEMISTRY</span>
+                        <span class="skill-tag">SYSTEMS THINKING</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="achievements-bar mt-5">
+                <h3>> NOTABLE MILESTONES</h3>
+                <div class="milestones-grid">
+                    <div class="milestone-card">> Junior Diploma in Space Science</div>
+                    <div class="milestone-card">> Guinness World Record participant (Largest Astronomy Lesson)</div>
+                    <div class="milestone-card">> Designed & Executed independent high-level engineering systems</div>
+                    <div class="milestone-card">> 5 years of structured IIT-level coaching in Core Sciences (PCM)</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects" class="section">
+        <img src="icarus_falling_1774783320666.png" id="icarus-falling" alt="Icarus Falling from Grace">
+        <div class="container auto-hide">
+            <h2 class="section-title">_[03] DEPLOYMENTS_AND_HARDWARE</h2>
+            <div class="projects-grid">
+                <a href="https://medium.com/@aaravgandhi" target="_blank" class="project-card">
+                    <div class="project-content">
+                        <h3>> SATELLITE_DESIGN.sys</h3>
+                        <p>Conceptualized a full satellite system focusing on structural integrity, power subsystem integration, payload, and telemetry basics.</p>
+                    </div>
+                </a>
+                <a href="https://medium.com/@aaravgandhi" target="_blank" class="project-card">
+                    <div class="project-content">
+                        <h3>> HIGH-END_TELESCOPE.opt</h3>
+                        <p>Independently constructed a telescope prioritizing optical alignment, sturdy architecture, and elite observation quality.</p>
+                    </div>
+                </a>
+                <a href="https://medium.com/@aaravgandhi" target="_blank" class="project-card">
+                    <div class="project-content">
+                        <h3>> AMATEUR_ROCKETRY.px</h3>
+                        <p>Applied independent engineering research encompassing 3D structural components, foundational propulsion, and custom PCB routing.</p>
+                    </div>
+                </a>
+                <a href="https://medium.com/@aaravgandhi" target="_blank" class="project-card">
+                    <div class="project-content">
+                        <h3>> AGENTIC_AI_ASSISTANT.py</h3>
+                        <p>Developing a sophisticated AI system capable of dynamic chat interaction, email summarization, and autonomous task orchestration.</p>
+                    </div>
+                </a>
+                <a href="https://medium.com/@aaravgandhi" target="_blank" class="project-card">
+                    <div class="project-content">
+                        <h3>> SIM: Gorilla vs Humans</h3>
+                        <p>A computational AI-based simulation modeling complex structural interactions. (Viewable on GitHub).</p>
+                    </div>
+                </a>
+                <a href="https://medium.com/@aaravgandhi" target="_blank" class="project-card">
+                    <div class="project-content">
+                        <h3>> AQUAPONICS_ECOSYSTEM.bio</h3>
+                        <p>Bridged biology and engineering to synthesize a fully functional, self-sustaining cyclic ecosystem.</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <section id="research" class="section">
+        <div class="container auto-hide">
+            <h2 class="section-title">_[04] DEEP_TECH_RESEARCH</h2>
+            <div class="research-list">
+                <div class="research-card">
+                    <h3>[ Antharyatrix Project ]</h3>
+                    <p>Contributed to a massive conceptual space habitat framework involving self-sustaining ecosystems, deep AI infrastructure integration, and theoretical interplanetary defense schemas.</p>
+                </div>
+                <div class="research-card">
+                    <h3>[ Interplanetary Habitation ]</h3>
+                    <p>Drafted research investigating the feasibility of sustaining human life beyond Earth, computing environmental constraints and closed-source resource cycles. Submitted to the National Space Society.</p>
+                </div>
+                <div class="research-card">
+                    <h3>[ Helium-3 Energy Applications ]</h3>
+                    <p>Explored the theoretical extraction challenges and potential payload configurations for utilizing lunar Helium-3 as a cornerstone for future clean energy networks.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer id="contact" class="section">
+        <div class="container auto-hide">
+            <h2 class="section-title">_[05] UPLINK_AND_OBJECTIVES</h2>
+            
+            <div class="goals-container">
+                <div class="goal-box">
+                    <h3>> SHORT_TERM</h3>
+                    <p>Secure admission to a rigorous engineering program via JEE performance. Expand integrated AI/Aerospace builds and publish structured deep-tech research.</p>
+                </div>
+                <div class="goal-box">
+                    <h3>> LONG_TERM</h3>
+                    <p>Pioneer scalable engineering solutions in deep tech. Lead the development of advanced aerospace systems that deeply intersect with intelligent agentic architecture.</p>
+                </div>
+            </div>
+
+            <p class="contact-text mt-5">Ready to collaborate on complex, unyielding problems.</p>
+            <a href="mailto:antharyatrix@gmail.com" class="btn contact-btn">ESTABLISH_UPLINK</a>
+            
+            <div class="social-links mt-8">
+                <a href="https://github.com/arvgdhi" target="_blank">GITHUB</a>
+                <a href="https://www.linkedin.com/in/aarav-gandhi-812068294/" target="_blank">LINKEDIN</a>
+                <a href="https://medium.com/@aaravgandhi" target="_blank">MEDIUM</a>
+                <a href="#">DISCORD: aerodome</a>
+            </div>
+            
+            <p class="copyright">Process finished with exit code 0 © 2026. AARAV GANDHI.</p>
+        </div>
+    </footer>
+
+    <script src="script.js?v=10"></script>
+</body>
+</html>
